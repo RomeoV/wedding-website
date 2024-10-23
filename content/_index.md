@@ -1,7 +1,7 @@
 ---
 draft: false
-when: "Sat 11th Feb 2023, 2:00 PM"
+when: "Sat 6th Sep 2025, 18:00"
 where:
-  first: "Higher Eggbeer Farm"
-  second: "Cheriton Bishop, Nr Exeter, Devon, EX6 6JQ"
+  first: "Seebad Enge"
+  second: "Mythenquai 9, 8002 Zürich, Switzerland"
 ---
