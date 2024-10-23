@@ -3,46 +3,25 @@ draft: false
 title: "Order of Events"
 ---
 
-## 1:30pm - Arrivals
+## 18:00 - Arrivals & Apero
 
-Everyone arrives at Higher Eggbeer
+Everyone arrives at Seebad Enge.
 
-Warm drink on arrival before the ceremony
+Warm and cold drinks and snacks upon arrival.
 
-## 2pm - Ceremony
+## 19:00 - Ceremony
 
-Inside the **Chapel Barn** at Higher Eggbeer
+Be there or be square
 
-## 2:30pm - Reception
+## 20:00 - Dinner
 
-Sparkling, canapes and photographs on the lawn after the ceremony- weather permitting!
+Get seated and enjoy conversation, dinner, and drinks.
 
-Please do wrap up warm, but we have contingencies for rain
+## 22:00 - Party time
 
-## 4pm - Wedding Breakfast
+Rip up the dance floor.
 
-A dinner with wine will follow in Higher Eggbeer's **Banquet Barn**
+## 24:00 - Move on to Paddy Reiligh's
 
-Speeches after dinner
-
-_Venue Bar opens during the wedding breakfast -  cash & card accepted_
-
-## Later... The Party
-
-After a quick reshuffle of the **Banquet Barn**, the party will begin!
-
-_The Small Things_ playing live music until 11pm
-
-Late night food served for those still peckish!
-
-## Carriages at midnight
-
-Wrap up warm for sparklers, toasted marshmallows, and drunken warbling around the fire pit as we begin to say our farewells!
-
-_Venue Bar closes shortly after midnight_
-
-## Wheelbarrows at 2am
-
-The **Banquet Barn** will shut at around midnight… but the party doesn’t need to end there!
-
-The smaller **‘Pub’ Barn** will be opened with a few bottles and maybe some kegs, for those hardcore enough to stay up!
+For those still down to go out, we will move in groups to Paddy Reiligh's by tram,
+where the party continues.
