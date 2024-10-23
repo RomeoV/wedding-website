@@ -3,53 +3,30 @@ draft: false
 title: "Travel Advice"
 ---
 
-<iframe class="google-map" style="border:0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5988.827892632287!2d-3.7497530637098593!3d50.72189916227002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x486dac616bc30dc7%3A0x95241c452f2c9cec!2sEggbeer%20Farm!5e0!3m2!1sen!2suk!4v1659273800010!5m2!1sen!2suk" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div style="text-align: center;">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5405.155872798768!2d8.53417827680303!3d47.361637604860675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479009fdda7286a1%3A0x1438b5e721627c3a!2sSeebad%20Enge!5e0!3m2!1sen!2sus!4v1729648041528!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## Address
 
-Higher Eggbeer Farm, 
-Cheriton Bishop, 
-Exeter, 
-EX6 6JQ
+Seebad Enge
+Mythenquai 9
+8002 Zürich
+Switzerland
 
 ## By train
 
-Trains from London Paddington to Exeter St David’s are approx ~2hrs 15mins.
+We recommend coming to our wedding by public transport, one our favorite aspects of Zürich!
+The train station "Bahnhof Enge" is about a ten minute walk from the destination and is a good choice
+when coming by train. Bahnhof Enge is a single stop away from the Zürich central station, or "Zürich HB", which is very well connected to a variety of locations (where you may find better hotel prices).
 
-You would then need to travel by taxi.
+However, you should also consider coming by tram instead.
+Both the tram stations "Rentenanstalt" and "Bürkliplatz" are within a short walk of the destination, and the tram network is well connected within Zürich.
+
+Notice that if you join the afterparty, we will move to "Paddy Reilly's", which in turn is about a ten minute walk to Zürich central station. Public transport will run throughout the night to all major locations from there.
 
 ## By taxi
-
-Taxi from Exeter Station to Higher Eggbeer is approx. a 15-20min cab ride.
-
-Please arrange cabs home for your group on Saturday night after the wedding.
-
-<br>
-
-**Taxi Companies:**
-
-Execter Cars - 01392 555555 ([website](https://www.exetercars.com/))
-
-Apple Taxis Exeter - 01392 666 666 ([website](https://www.appletaxisexeter.co.uk/))
-
-Andrew Mills Taxi - 01392 253588
+If you do wish to come by Taxi, we recommend taking an Uber, as they are somewhat reasonably priced and run until late into the night.
 
 ## By car
-
-**Note: Parking is available on site and cars can be left on site overnight**
-
-Higher Eggbeer is a short drive from Exeter City Centre - approx. 15-20min drive.
-
-From Exeter, take the A30 & exit towards Cheriton Bishop / Crockernwell / Drewsteignton / Tedburn / St Mary.
-
-When you arrive in the village of Cheriton Bishop at the ‘The Old Thatch Inn’ pub on the left, take the next left turn (at the yellow house). This will lead you down a short country lane directly to Higher Eggbeer. There are signs pointing to the entrance.
-
- 
-
-
-
-
-
-
-
-
+We do not recommend coming by car.
