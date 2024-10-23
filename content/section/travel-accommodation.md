@@ -11,16 +11,16 @@ The take-home messages are:
 
 <br>
 
-Please pre-book a taxi for the evening if you are not travelling by car
+The location is easily accessible by public transport from any location in or near Zürich.
+Simply get a train to train station "Bahnhof Enge", or tram station "Rentenanstalt", and walk the last meters.
 
 <br>
 
-There is a lot of parking space available at Eggbeer Farm and cars can be left here overnight.
+There is also limited parking available near the venue, but the cars can not be left over night.
 
 <br>
 
-Accommodation at Higher Eggbeer is available for hire, please contact Hugo and Sarah for more details
+When booking accommodation, consider [this "isochrone" map](https://commutetimemap.com/map?places=47.361700%253B8.536701%253B0%253B900%253B%25234143f4&places=47.361700%253B8.536701%253B0%253B1800%253B%2523fc0000) to get a feeling for commute times for a given location.
+Red marks the area reachable within 30 minutes by public transport from the venue.
 
-<br>
-
-You could take a train down from London to Exeter on the morning of the wedding, and back home afterwards, if you wanted!
+<iframe src="https://commutetimemap.com/embedded?places=47.361700%253B8.536701%253B0%253B900%253B%25234143f4&places=47.361700%253B8.536701%253B0%253B1800%253B%2523fc0000&operation=none" name="commuteTimeMapIFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="600px" width="100%"></iframe>
