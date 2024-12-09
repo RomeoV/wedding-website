@@ -78,7 +78,7 @@ html {
     align-items: center;
     background-color: var(--dusty-pink);
     color: var(--cream);
-    text-shadow: var(--dark-green) 2px 2px 0px;
+    /* text-shadow: var(--dark-green) 2px 2px 0px; */
     letter-spacing: 2px;
 
     height: 100vh;
