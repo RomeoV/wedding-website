@@ -19,6 +19,6 @@ Also note that the venue has **wooden floorboards with ~0.5cm gaps**! We kindly 
 
 <br> 
 
-<div style="text-align: center;">
-<img src="https://www.seebadenge.ch/wp/wp-content/uploads/2019/03/SeebadEnge_10Catering.jpg" alt="Wooden floor boards" width="50%">
+<div style="text-align: center;margin-top: 20px">
+<img src="https://www.seebadenge.ch/wp/wp-content/uploads/2019/03/SeebadEnge_10Catering.jpg" alt="Wooden floor boards" width="90%">
 </div>
