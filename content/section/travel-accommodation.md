@@ -3,25 +3,24 @@ draft: false
 title: "Travel and Accommodation"
 ---
 
-**Please take a look at our separate pages on <a href="/travel">travel</a> and <a href="/accommodation">accommodation</a> for advice.**
+**Please refer to our dedicated <a href="/travel">travel</a> and <a href="/accommodation">accommodation</a> pages for detailed guidance.**
 
 <br>
 
-The take-home messages are:
+Here are the take-home messages:
 
 <br>
 
-The location is easily accessible by public transport from anywhere in or near Zürich.
-Simply take a train to train station "Bahnhof Enge", or tram station "Rentenanstalt", and walk the last meters.
+The "Badi" – as Seebad Enge is affectionately called – is easily accessible by public transport from anywhere in or around Zürich.
+Simply take a train to "Bahnhof Enge" and walk the last meters to the venue! Alternatively, the nearest tram stop, "Rentenanstalt," is also within walking distance.
 
 <br>
 
-There is also limited parking available near the venue, but cars can not be left over night.
+Parking near the venue is limited, and overnight parking is not permitted. 
 
 <br>
 
-When booking accommodation, consider [this "isochrone" map](https://commutetimemap.com/map?places=47.361700%253B8.536701%253B0%253B900%253B%25234143f4&places=47.361700%253B8.536701%253B0%253B1800%253B%2523fc0000) to get a feeling for commute times for a given location.
-Red marks the area reachable within 30 minutes by public transport from the venue.
+When you book your accommodation, consider [this "isochrone" map](https://commutetimemap.com/map?places=47.361700%253B8.536701%253B0%253B900%253B%25234143f4&places=47.361700%253B8.536701%253B0%253B1800%253B%2523fc0000) of Zürich, which highlights areas with a short commute to the Badi. The red zone marks areas reachable within 30 minutes by public transport from the Badi.
 
 <br>
 

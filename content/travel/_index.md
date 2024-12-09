@@ -9,24 +9,30 @@ title: "Travel Advice"
 
 ## Address
 
-Seebad Enge
-Mythenquai 9
-8002 Zürich
+Seebad Enge,
+Mythenquai 9,
+8002 Zürich,
 Switzerland
 
-## By train
+## By train or tram
 
-We recommend coming to our wedding by public transport, one our favorite aspects of Zürich!
-The train station "Bahnhof Enge" is about a ten minute walk from the destination and is a good choice
-when coming by train. Bahnhof Enge is a single stop away from the Zürich central station, or "Zürich HB", which is very well connected to a variety of locations (where you may find better hotel prices).
+We recommend coming to our wedding by public transport - one our favorite aspects of Switzerland! Zürich's public transport is frequent, reliable, and well-connected, with regular services even during the night.
 
-However, you should also consider coming by tram instead.
-Both the tram stations "Rentenanstalt" and "Bürkliplatz" are within a short walk of the destination, and the tram network is well connected within Zürich.
+<br>
 
-Notice that if you join the afterparty, we will move to "Paddy Reilly's", which in turn is about a ten minute walk to Zürich central station. Public transport will run throughout the night to all major locations from there.
+The train station "Bahnhof Enge" is about a 10-minute walk from the destination and is a good choice
+when arriving by train. Bahnhof Enge is just one stop from Zürich's central station, "Zürich HB," which connects to a wide range of destinations, including areas where you might find better hotel prices.
+
+<br>
+
+Trams are another great way to reach the venue. Both the "Rentenanstalt" and "Bürkliplatz" tram stops are within a short walk of the destination. Zürich’s tram network is extensive, with most hotels and major sights conveniently located near tram stops.
+
+<br>
+
+If you’re planning to join the afterparty at "Paddy Reilly's," note that it’s about a 10-minute walk from Zürich central station. From there, public transport will run throughout the night to all major locations.
 
 ## By taxi
-If you do wish to come by Taxi, we recommend taking an Uber, as they are somewhat reasonably priced and run until late into the night.
+If you prefer to travel by taxi, we recommend using Uber, as it’s relatively affordable and operates late into the night.
 
 ## By car
-We do not recommend coming by car.
+We do not recommend driving to the venue due to limited parking options.

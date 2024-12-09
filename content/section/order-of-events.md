@@ -16,7 +16,7 @@ Be there or be square!
 
 Get seated and enjoy conversation, dinner, and drinks.
 
-## 22:00 - Party time
+## 22:00 - Party Time
 
 Rip up the dance floor!
 
