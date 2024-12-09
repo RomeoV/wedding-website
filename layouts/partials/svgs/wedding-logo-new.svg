@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    class="header-svg"
    viewBox="90 0 513.58612 514.41309"
@@ -13,7 +12,8 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg">
+    <sodipodi:namedview
    id="namedview247"
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -132,4 +132,5 @@
      id="tspan251"
      x="350.59909"
      y="372.38455"
-     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85;font-family:C059;-inkscape-font-specification:'C059 Italic';fill:#faf2da;fill-opacity:1;stroke:#faf2da;stroke-width:2.25348;stroke-dasharray:none;stroke-opacity:1">MEREL</tspan></text></svg>
+     style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.85;font-family:C059;-inkscape-font-specification:'C059 Italic';fill:#faf2da;fill-opacity:1;stroke:#faf2da;stroke-width:2.25348;stroke-dasharray:none;stroke-opacity:1">MEREL</tspan></text>
+</svg>
