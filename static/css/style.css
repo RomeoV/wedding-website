@@ -299,14 +299,14 @@ html {
 .scroll-top__button {
   display: inline-block;
   width: 25%;
-  height: 25%;;
+  height: 25%;
   cursor: pointer;
 }
 
 @media only screen and (min-width: 800px) {
     .scroll-top__button {
         width: 10%;
-        height: 10%;;
+        height: 10%;
       }
 }
 
