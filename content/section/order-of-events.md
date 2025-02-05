@@ -20,6 +20,6 @@ Get seated and enjoy conversation, dinner, and drinks.
 
 Rip up the dance floor!
 
-## 24:00 - Move on to Paddy Reilly's
+## 00:00 - Move on to Paddy Reilly's
 
 For those interested in continuing the party, we will travel together by tram to Paddy Reilly's to carry on the celebration.
