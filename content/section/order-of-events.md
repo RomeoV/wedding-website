@@ -12,7 +12,11 @@ Join us for aperitifs and canapés.
 
 Be there or be square!
 
-## 20:00 - Dinner
+## 19:45 - Quick Dip In The Lake 🏊
+Hop into beautiful Zürisee with Romeo or enjoy the views with Merel.
+Bring swimwear!
+
+## 20:15 - Dinner
 
 Get seated and enjoy conversation, dinner, and drinks.
 
@@ -23,3 +27,7 @@ Rip up the dance floor!
 ## 00:00 - Move on to Paddy Reilly's
 
 For those interested in continuing the party, we will travel together by tram to Paddy Reilly's to carry on the celebration.
+
+## 03:00 - Go home
+
+Dream happy dreams for Romeo and Merel.
