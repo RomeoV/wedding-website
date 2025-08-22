@@ -3,19 +3,19 @@ draft: false
 title: "Swiss Tips 🇨🇭"
 ---
 
-Here we will briefly collect some of our favorite activities in and around Zürich.
+Here we’ll briefly share some of our favorite activities in and around Zürich.
 
 # Hiking
-There are many amazing hikes in Switzerland, most of them easy to reach via the rail service SBB.
+Switzerland is full of amazing hikes, most of them easily accessible via the SBB rail network.
 Here are just a few of our favorites.
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
     <h2>Uetliberg (Zürich)</h2>
-    For a quick hike, you can just take the tram to the foot of Uetliberg and go up beautiful path. You can eat all the way at the top (a recurring theme, as you will see) and come down (or go up) by train.
+    For a quick hike, take the tram to the foot of Uetliberg and follow the scenic path up. You can enjoy a bite to eat at the top (a recurring theme, as you’ll see) and either hike back down or take the train.
     <ul>
-      <li>Round trip 3h</li>
-      <li>Cost CHF8 or $10</li>
+      <li>Round trip: ~3 hours</li>
+      <li>Cost: CHF8 (~$10)</li>
     </ul>
   </div>
   <div style="flex: 0 0 300px;">
@@ -25,11 +25,11 @@ Here are just a few of our favorites.
 
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
-    <h2>Walensee (St Gallen)</h2>
-    A beautiful shorter hike combining train, boat, and lakeside walking. Take the train to the south side of Walensee, catch a boat across the stunning turquoise lake, then hike back along the scenic shore path with dramatic cliff views. Perfect for those wanting a gentler hike with varied transportation.
+    <h2>Walensee (St. Gallen)</h2>
+    A beautiful shorter hike that combines train, boat, and lakeside walking. Take the train to Murg on the south side of Walensee, catch a boat across the stunning turquoise lake to Quinten, then hike along the shore path with dramatic cliff views to Weesen. Perfect for anyone looking for a gentler hike with some variety in transportation.
     <ul>
-      <li>Round trip ~5h (including travel)</li>
-      <li>Cost CHF25-35 including boat</li>
+      <li>Round trip: ~5 hours (including travel)</li>
+      <li>Cost: CHF25-35 (including the boat)</li>
       <li>Easy lakeside hiking trail</li>
     </ul>
   </div>
@@ -70,26 +70,27 @@ Here are just a few of our favorites.
 
 
 # Dining
-If there's one thing where Zürich really sticks out, it's the dining out prices.
-Nontheless, here's a few options that won't completely break the bank and are a great meal.
+One thing Zürich is known for? Its eye-watering restaurant prices.
+Nonetheless, here are a few spots that won’t completely break the bank and still serve a great meal:
 
-- Vapiano @ Bellvue
-- Holy Cow @ Niederdorf
-- Napule Pizza @ Josefstrasse or near Stadelhofen
-And of course you can always grab a bite from the next Migros or Coop.
-Also, if you go for a hike definitely try to find some food at the top of the mountain!
+- Vapiano @ Rämistrasse
+- Holy Cow! @ Zähringerstrasse
+- Napulé @ Josefstrasse
+- Miki @ Sihlfeldstrasse
+
+Of course, you can always grab something quick from Migros or Coop.
+And if you’re going for a hike, definitely try some food at the top of the mountain, it’s worth it!
 
 # Cafés and Drinks
 - Frau Gerold's Garten (Drinks)
-- Mame (Coffee)
-- Grande Cafe & Bar (Coffee)
-- Lake Side (Coffee)
+- MAME (Coffee)
+- Grande Café & Bar (Coffee)
 - El Lokal (Drinks)
-- Bqm (Drinks)
+- bQm (Drinks)
 
 
 # Other things to do around Zürich
-- hang around Chinagarten, jump in the lake
-- go to the Landesmuseum
-- visit the universities ETH and UZH
-- go second hand shopping at brocki
+- Hang out at Chinagarten or jump in the lake
+- Visit the Landesmuseum
+- Check out the terrace behind the ETH Hauptgebäude for a nice view
+- Go second-hand shopping at a Brocki
