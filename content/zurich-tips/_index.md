@@ -41,7 +41,7 @@ Here are just a few of our favorites.
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
     <h2>Seealpsee (Appenzell)</h2>
-    A stunning alpine lake framed by dramatic peaks, perfect for a day trip from Zürich. Take the train to Appenzell, then a cable car up to Ebenalp, and hike down to the picture-perfect lake. The crystal-clear water beautifully reflects the surrounding mountains.
+    A stunning alpine lake framed by dramatic peaks, perfect for a day trip from Zürich. Take the train to Appenzell, then a cable car up to Ebenalp, and hike down to the picture-perfect lake.
     <ul>
       <li>Round trip: ~7h (including travel)</li>
       <li>Cost: CHF45-60 (including transport) (<a href="https://www.sbb.ch/en?stops=[{%22value%22:%228503000%22,%22type%22:%22ID%22,%22label%22:%22Z%C3%BCrich+HB%22},{%22value%22:%228582882%22,%22type%22:%22ID%22,%22label%22:%22Wasserauen,+Bahnhof%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
