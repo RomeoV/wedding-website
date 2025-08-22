@@ -24,10 +24,10 @@ Get seated and enjoy conversation, dinner, and drinks.
 
 Rip up the dance floor!
 
-## 00:00 - Move on to Paddy Reilly's
+## 00:00 - Move on to Raum84
 
-For those interested in continuing the party, we will travel together by tram to Paddy Reilly's to carry on the celebration.
+For those of us wanting to continue the party, we will travel together via a rented bus to Raum84 in Langstrasse to carry on the celebration.
 
-## 03:00 - Go home
+## 04:00 - Go home
 
 Dream happy dreams for Romeo and Merel.
