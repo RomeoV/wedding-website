@@ -12,8 +12,8 @@ Join us for aperitifs and canapés.
 
 Be there or be square!
 
-## 19:45 - Quick Dip In The Lake 🏊
-Hop into beautiful Zürisee with Romeo or enjoy the views with Merel.
+## 19:45 - Quick Dip in the Lake 🏊
+Hop into the beautiful Zürisee with Romeo or enjoy the views with Merel.
 Bring swimwear!
 
 ## 20:15 - Dinner
@@ -26,7 +26,7 @@ Rip up the dance floor!
 
 ## 00:00 - Move on to Raum84
 
-For those of us wanting to continue the party, we will travel together via a rented bus to Raum84 in Langstrasse to carry on the celebration.
+For those who want to keep the party going, we’ll take a rented bus to Raum84 on Langstrasse to continue the celebration.
 
 ## 04:00 - Go home
 
