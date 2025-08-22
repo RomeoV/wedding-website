@@ -58,7 +58,7 @@ Here are just a few of our favorites.
     Home to the world's steepest funicular railway, Stoos offers breathtaking panoramic views of the Swiss Alps and Lake Lucerne. The ridge walk from Stoos to Fronalpstock is especially spectacular, with 360-degree mountain vistas. Perfect for those wanting dramatic alpine scenery without technical climbing.
     <ul>
       <li>Round trip: ~8h (including travel)</li>
-      <li>Cost: CHF35-50 (including funicular) (<a href="https://www.sbb.ch/en?stops=[{%22label%22:%22Z%C3%BCrich+HB%22,%22type%22:%22ID%22,%22value%22:%228503000%22},{%22value%22:%228530391%22,%22type%22:%22ID%22,%22label%22:%22Stoos(Sesselbahn+Fronalpstock)%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
+      <li>Cost: CHF35-50 (including funicular) (<a href="https://www.sbb.ch/en?stops=[{%22label%22:%22Z%C3%BCrich+HB%22,%22type%22:%22ID%22,%22value%22:%228503000%22},{%22value%22:%228577453%22,%22type%22:%22ID%22,%22label%22:%22Schwyz,+Stoosbahn%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
     </ul>
   </div>
   <div style="flex: 0 0 300px;">
