@@ -38,15 +38,13 @@ Here are just a few of our favorites.
   </div>
 </div>
 
-
-
 <div style="display: flex; align-items: flex-start; gap: 20px; margin: 20px 0;">
   <div style="flex: 1;">
     <h2>Seealpsee (Appenzell)</h2>
-    A stunning alpine lake surrounded by dramatic peaks, perfect for a day trip from Zürich. Take the train to Appenzell, then a cable car up to Ebenalp, and hike down to this picture-perfect lake. The crystal-clear water reflects the surrounding mountains beautifully.
+    A stunning alpine lake framed by dramatic peaks, perfect for a day trip from Zürich. Take the train to Appenzell, then a cable car up to Ebenalp, and hike down to the picture-perfect lake. The crystal-clear water beautifully reflects the surrounding mountains.
     <ul>
-      <li>Round trip ~7h (including travel)</li>
-      <li>Cost CHF45-60 including transport (<a href="https://www.sbb.ch/en?stops=[{%22value%22:%228503000%22,%22type%22:%22ID%22,%22label%22:%22Z%C3%BCrich+HB%22},{%22value%22:%228582882%22,%22type%22:%22ID%22,%22label%22:%22Wasserauen,+Bahnhof%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
+      <li>Round trip: ~7h (including travel)</li>
+      <li>Cost: CHF45-60 (including transport) (<a href="https://www.sbb.ch/en?stops=[{%22value%22:%228503000%22,%22type%22:%22ID%22,%22label%22:%22Z%C3%BCrich+HB%22},{%22value%22:%228582882%22,%22type%22:%22ID%22,%22label%22:%22Wasserauen,+Bahnhof%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
     </ul>
   </div>
   <div style="flex: 0 0 300px;">
@@ -59,15 +57,14 @@ Here are just a few of our favorites.
     <h2>Stoos (Central Switzerland)</h2>
     Home to the world's steepest funicular railway, Stoos offers breathtaking panoramic views of the Swiss Alps and Lake Lucerne. The ridge walk from Stoos to Fronalpstock is especially spectacular, with 360-degree mountain vistas. Perfect for those wanting dramatic alpine scenery without technical climbing.
     <ul>
-      <li>Round trip ~8h (including travel)</li>
-      <li>Cost CHF35-50 including funicular (<a href="https://www.sbb.ch/en?stops=[{%22label%22:%22Z%C3%BCrich+HB%22,%22type%22:%22ID%22,%22value%22:%228503000%22},{%22value%22:%228530391%22,%22type%22:%22ID%22,%22label%22:%22Stoos(Sesselbahn+Fronalpstock)%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
+      <li>Round trip: ~8h (including travel)</li>
+      <li>Cost: CHF35-50 (including funicular) (<a href="https://www.sbb.ch/en?stops=[{%22label%22:%22Z%C3%BCrich+HB%22,%22type%22:%22ID%22,%22value%22:%228503000%22},{%22value%22:%228530391%22,%22type%22:%22ID%22,%22label%22:%22Stoos(Sesselbahn+Fronalpstock)%22}]&date=%222025-09-05%22&time=%2213:00%22&moment=%22DEPARTURE%22">SBB link</a>)</li>
     </ul>
   </div>
   <div style="flex: 0 0 300px;">
     <img src="/image/stoos2.jpg" alt="Stoos mountain panorama" style="width: 100%; height: auto; border-radius: 8px;">
   </div>
 </div>
-
 
 # Dining
 One thing Zürich is known for? Its eye-watering restaurant prices.
@@ -87,7 +84,6 @@ And if you’re going for a hike, definitely try some food at the top of the mou
 - Grande Café & Bar (Coffee)
 - El Lokal (Drinks)
 - bQm (Drinks)
-
 
 # Other things to do around Zürich
 - Hang out at Chinagarten or jump in the lake
